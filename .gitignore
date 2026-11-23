@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+node_modules/
+config.json
+.platform.json
+*.mp4
